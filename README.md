@@ -2,6 +2,8 @@
 
 Programa de terminal feito em Python para controlar renda e despesas. Foi o meu primeiro projeto: nele treinei condições, laços, tratamento de erros, listas e exportação de dados para arquivo.
 
+![Exemplo de uso no terminal](exemplo-terminal.png)
+
 ## O que ele faz
 
 - **Cadastrar renda**: registra a renda e permite alterá-la depois.
